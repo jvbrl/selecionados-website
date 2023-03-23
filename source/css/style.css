@@ -54,22 +54,44 @@ a {
 
 .link {
     display: block;
-    background-color: #3d3b3c;
-    color: #fff;
+    background-color: #151515;
+    color: #ffff;
     text-align: center;
     font-size: 1rem;
     font-family: 'Karla', Helvetica, sans-serif;
     font-weight: 600;
     padding: 15px 0 15px 0;
     margin: 12px 0 11px 0;
-    border: 2px solid #3d3b3c;
+    border: 2px solid #151515;
 }
 
 .link:hover {
-    color: #3d3b3c;
-    background-color: #fff;
+    color: #151515;
+    background-color: #fffff;
 }
 
+
+/* categorias */
+
+.categoria {
+  display: inline-block;
+  width: 167px;
+  justify-content: center;
+  background-color: #06c972;
+  color: #ffff;
+  text-align: center;
+  font-size: 1rem;
+  font-family: 'Karla', Helvetica, sans-serif;
+  font-weight: 600;
+  padding: 15px 0 15px 0;
+  margin: 12px 0 11px 0;
+  border: 2px solid #06c972;
+}
+
+.categoria:hover {
+  color: #151515;
+  background-color: #ffff;
+}
 
 /* Footer */
 
